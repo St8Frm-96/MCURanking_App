@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 200px;
+    height: 200px;
+    background:url(marvel-intro.gif);
+}
